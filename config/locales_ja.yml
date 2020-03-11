@@ -1,0 +1,6 @@
+--2020-03-09 16:03:45--  https://raw.githubusercontent.com/svenfuchs/rails-il18n/master/rails/locale/ja.yml
+raw.githubusercontent.com (raw.githubusercontent.com) をDNSに問いあわせています... 151.101.108.133
+raw.githubusercontent.com (raw.githubusercontent.com)|151.101.108.133|:443 に接続しています... 接続しました。
+HTTP による接続要求を送信しました、応答を待っています... 404 Not Found
+2020-03-09 16:03:46 エラー 404: Not Found。
+
